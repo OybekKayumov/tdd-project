@@ -19,7 +19,7 @@ Clone the project, make sure you have ruby installed and you are good to go
 
 ## Authors
 
-👤 **Ben**
+👤 **Ben, Solomon, Oybek**
 
 - GitHub: [Ben Kiarie](https://github.com/Benmuiruri)
 - GitHub: [Solomon Hagan](https://github.com/Achilles-Dev)
