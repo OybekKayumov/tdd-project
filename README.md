@@ -12,6 +12,8 @@
 ## Built With
 
 - **Ruby**
+- **RSpec**
+- **TDD**
   
 ## Getting Started
 
@@ -29,7 +31,7 @@ Clone the project, make sure you have ruby installed and you are good to go
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Benmuiruri/tdd-project/issues).
+Feel free to check the [issues page](https://github.com/OybekKayumov/tdd-project/issues).
 
 ## Show your support
 
